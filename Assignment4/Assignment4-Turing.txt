@@ -1,0 +1,11 @@
+							ACM Turing Award Assignment
+This assignment is for you to appreciate the work of our Computer Science Greats and 
+draw motivation for your contribution. 
+ 
+This is not a mandatory assignment. However, writing a 3 page document on Turing Award recepient could fetch some additional bonus points. Please do not copy and paste, this can be easily detected.
+
+The document should contain - Name of the award recepient, 1/2 page Bio, 1 page summary of the work, 1/2 page on major contributions/open questions for future research and their challenges, if any.
+
+Please use emacs to do the documentation, the submission should be in org/latex format. 
+
+Deadline - Nov 30th 2017.
